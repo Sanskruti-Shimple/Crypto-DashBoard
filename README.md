@@ -1,9 +1,3 @@
-# Crypto-DashBoard
-
-Here's a **unique and plagiarism-free GitHub README** description for your "Cryptocurrency Dashboard" project, integrating technical terms and relevant trends in the field:
-
----
-
 # Cryptocurrency Dashboard 🚀📊
 
 ## Overview
