@@ -79,5 +79,5 @@ To run the Cryptocurrency Dashboard locally, follow these steps:
 - 🛠️ **Custom Alerts**: Implement notifications for specific price changes or market events.
 - 📅 **Historical Data Analysis**: Offer users the ability to analyze historical trends and predict future price movements with advanced algorithms.
 
-## WebApp 🌟
+## WebApp 🔗
 - Website: - https://crypto-nine-orcin.vercel.app
