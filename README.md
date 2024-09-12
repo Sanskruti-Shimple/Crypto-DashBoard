@@ -20,50 +20,6 @@ Built using modern front-end technologies, the dashboard ensures a fast, respons
 
 This project utilizes cutting-edge front-end technologies to deliver a high-performance, engaging user experience:
 
-### Frontend:
-- **HTML5**: Structuring the dashboard with semantic, accessible markup.
-- **CSS3 (SASS)**: Crafting custom styles with modular and maintainable SCSS for a responsive, visually appealing design.
-- **JavaScript (ES6+)**: Leveraging modern JavaScript features like async/await for real-time data fetching and DOM manipulation.
-- **React.js**: Building reusable UI components and handling state management to ensure a reactive, dynamic experience.
-- **Chart.js/D3.js**: Implementing visually engaging and highly customizable data visualizations with libraries like Chart.js or D3.js.
-- **Axios/Fetch API**: Handling real-time API requests and data fetching from cryptocurrency APIs (e.g., CoinGecko, CoinMarketCap).
-- **Responsive Design (Flexbox/Grid)**: Ensuring the dashboard is mobile-first and adapts seamlessly across various devices.
-
-### APIs and External Libraries:
-- **Cryptocurrency APIs**: Fetching real-time data from services like [CoinGecko](https://www.coingecko.com/) or [CoinMarketCap](https://coinmarketcap.com/).
-- **Moment.js**: Handling date and time formatting for historical data.
-- **FontAwesome**: Adding custom icons to enhance the visual appeal of the UI.
-
-## Installation & Setup
-
-To run the Cryptocurrency Dashboard locally, follow these steps:
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/your-username/cryptocurrency-dashboard.git
-   ```
-
-2. **Navigate to the project directory:**
-
-   ```bash
-   cd cryptocurrency-dashboard
-   ```
-
-3. **Install dependencies:**
-
-   ```bash
-   npm install
-   ```
-
-4. **Start the development server:**
-
-   ```bash
-   npm start
-   ```
-
-   The application should now be running on `http://localhost:3000/`.
-
 ## How It Works
 
 1. The dashboard connects to a **cryptocurrency API** (e.g., CoinGecko) to fetch the latest pricing, market cap, and volume data.
